@@ -1,5 +1,5 @@
 # Overview
-Android Studio: ShoppingListApp - Will open 100% fine
+Android Studio: ShoppingListApp - Will open 100% fine                
 Netbeans 8.2: AndroidWebService - Will not work without Glassfish 5 (incompatability or setting issues)
 
 Refer to the screenshots for further insight
