@@ -1,0 +1,5 @@
+com\webservice\androidwebservice\ItemService.class
+org\netbeans\rest\application\config\ApplicationConfig.class
+com\webservice\androidwebservice\ItemsResource$JsonToItem.class
+com\webservice\androidwebservice\Item.class
+com\webservice\androidwebservice\ItemsResource.class
