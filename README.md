@@ -1,2 +1,9 @@
-# TOP5-Year3-MobileWebService
-Grade: 45/100 | A local host server is created using glassfish 5 which allows the mobile app to connect to it and browse, edit and create items from the mobile application. This utilizes EJB's, RESTful Webservice &amp; mobile development
+# Overview
+Android Studio: ShoppingListApp - Will open 100% fine
+Netbeans 8.2: AndroidWebService - Will not work without Glassfish 5 (incompatability or setting issues)
+
+Refer to the screenshots for further insight
+
+For mobile coding: /ShoppingListApp/app/src/main
+For WebService coding: /AndroidWebService/src/main/java/com/webservice/androidwebservice
+(apologies for long paths)
