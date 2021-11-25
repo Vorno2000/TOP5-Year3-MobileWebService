@@ -5,5 +5,5 @@ Netbeans 8.2: AndroidWebService - Will not work without Glassfish 5 (incompatabi
 Refer to the screenshots for further insight
 
 For mobile coding: /ShoppingListApp/app/src/main                              
-For WebService coding: /AndroidWebService/src/main/java/com/webservice/androidwebservice
+For WebService coding: /AndroidWebService/src/main/java/com/webservice/androidwebservice        
 (apologies for long paths)
